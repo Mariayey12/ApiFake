@@ -1,0 +1,73 @@
+{
+    "libros": [{
+            "id": 1,
+            "nombre": "Saltamontes va de viaje",
+            "url": "https://imagenes.elpais.com/resizer/QUvPP-0dQasJF-kK9UhefiZGTRg=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/3NBPDN6OS5KC5DHIF73CG7WCGM.jpg",
+            "autor": "Arnold Lobel",
+            "editorial": "Kalandraka"
+        },
+        {
+            "id": 2,
+            "nombre": "La merienda del parque",
+            "url": "https://imagenes.elpais.com/resizer/boqvKT2ZMIijgrys26ID0bV5cZE=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/JWVBCU5GUVTVIFQYBLX6P65HI4.jpg",
+            "autor": "Pablo Albo",
+            "editorial": "Narval editores"
+        },
+        {
+            "url": "https://imagenes.elpais.com/resizer/wtvm7K7cjryk2ZzasWEC1ueq4gw=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/Y3VFQXJWTKZGVBPILZLLDR2IAY.jpg",
+            "nombre": "mamut Modificado",
+            "autor": "Arnold Lobel",
+            "editorial": "Libros del Zorro",
+            "id": 3
+        },
+        {
+            "id": 4,
+            "nombre": "Waterloo y Trafalgar",
+            "url": "https://imagenes.elpais.com/resizer/9M3WAcDf91tlq_EXFMfxqSsLLJw=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/XALEHUCQPABURA25PP6NBNEEYA.jpg",
+            "autor": "Olivier Tallec",
+            "editorial": "Adriana Hidalgo"
+        },
+        {
+            "id": 5,
+            "nombre": "Tristán encoge",
+            "url": "https://imagenes.elpais.com/resizer/CZ6KXcZeBKkwwvKhoUpeUAGEDVs=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/6BO6GHCWC7VSZ5Q2HQZXQ32GMA.jpg",
+            "autor": "Florence Parry ",
+            "editorial": "Blackie"
+        },
+        {
+            "id": 6,
+            "nombre": "Barrios de colores",
+            "url": "https://imagenes.elpais.com/resizer/yfZqCEr4wry-U4GBQk82E_JP9Sk=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/2NFJSPJX747AVEW6NZDWFKEBKM.jpg",
+            "autor": "Ana González ",
+            "editorial": "Milrazones"
+        },
+        {
+            "id": 7,
+            "nombre": "Cuando las niñas vuelan alto",
+            "url": "https://imagenes.elpais.com/resizer/7cgjm7SnQvHjg6OGB-QFQEFfkmk=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/X7OSLJAQUOPSR2DJWHASCYZGLU.jpg",
+            "autor": "Raquel Díaz",
+            "editorial": "Lumen"
+        },
+        {
+            "id": 8,
+            "nombre": "Supersorda",
+            "url": "https://imagenes.elpais.com/resizer/PXltybUrheT-6cvpTSHuyI6jqvw=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/SJFWMX37AHLM2RGKAOZYI3XZXI.jpg",
+            "autor": "Cece Bell",
+            "editorial": "Maeva"
+        },
+        {
+            "id": 9,
+            "nombre": "El libro de Gloria Fuertes",
+            "url": "https://imagenes.elpais.com/resizer/HoqWWs6wAJX30cfKxTAffnD9Qgo=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/QQNJHQSQN7JULTEWF6U5U7T5CM.jpg",
+            "autor": "Gloria Fuertes",
+            "editorial": "Blackie"
+        },
+        {
+            "id": 10,
+            "nombre": "Los Bandídez",
+            "url": "https://imagenes.elpais.com/resizer/W9zfLUMOlxue-g-lkx4yPV4G7m4=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/MREXTOMYELZJNPTW56PWFH5ZEE.jpg",
+            "autor": "Siri Kolu",
+            "editorial": "Nórdica"
+        }
+    ]
+}
