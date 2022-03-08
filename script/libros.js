@@ -15,10 +15,10 @@ const getLibro = async() => {
         const { id, nombre, url, autor, editorial, categoria } = libro;
         container.innerHTML += `
     
-    <div class="card mb-5" style="max-width: 540px;">
+    <div class="card mb-5" style="max-width: 540px; border-radius: 10px;  background-color: black;">
   <div class="row g-3">
     <div class="col-md-4">
-    <img src="${url}" id="img"  class="mt-4" alt="libros">
+    <img src="${url}" id="img"  class="mt-5" alt="libros">
     </div>
     <div class="col-md-8">
       <div class="card-body">
