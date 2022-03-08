@@ -1,0 +1,33 @@
+.containerCard {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    text-align: center;
+}
+
+#img {
+    width: 150px;
+    height: 200px;
+    margin: auto;
+    border: 1px solid #000;
+}
+
+button.btn {
+    border-radius: 10px;
+}
+
+body {
+    padding: 10px;
+    margin-top: 0%;
+    margin: auto;
+    background-color: antiquewhite;
+}
+
+.containerCard {
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    color: rgb(134, 36, 7);
+    text-align: justify;
+    font-size: x-large;
+}

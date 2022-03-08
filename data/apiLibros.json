@@ -1,73 +1,163 @@
 {
     "libros": [{
             "id": 1,
-            "nombre": "Saltamontes va de viaje",
-            "url": "https://imagenes.elpais.com/resizer/QUvPP-0dQasJF-kK9UhefiZGTRg=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/3NBPDN6OS5KC5DHIF73CG7WCGM.jpg",
-            "autor": "Arnold Lobel",
-            "editorial": "Kalandraka"
+            "nombre": "New Directions on Model Predictive Control",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2019/03/New-Directions-on-Model-Predictive-Control_OpenLibra-300x430.jpg",
+            "autor": " Jinfeng Liu , Helen E. Durand (Eds.) ",
+            "editorial": "MDPI",
+            "categoria": "Ciencia"
         },
         {
             "id": 2,
-            "nombre": "La merienda del parque",
-            "url": "https://imagenes.elpais.com/resizer/boqvKT2ZMIijgrys26ID0bV5cZE=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/JWVBCU5GUVTVIFQYBLX6P65HI4.jpg",
-            "autor": "Pablo Albo",
-            "editorial": "Narval editores"
+            "nombre": "El misterio de la vida",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2016/12/el-misterio-de-la-vida-OpenLibra-300x397.jpg",
+            "autor": "Brian S thomson & varios",
+            "editorial": "UniRío",
+            "categoria": "Ciencia"
         },
         {
-            "url": "https://imagenes.elpais.com/resizer/wtvm7K7cjryk2ZzasWEC1ueq4gw=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/Y3VFQXJWTKZGVBPILZLLDR2IAY.jpg",
-            "nombre": "mamut Modificado",
-            "autor": "Arnold Lobel",
-            "editorial": "Libros del Zorro",
-            "id": 3
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2016/05/Cerca-del-cielo-OpenLibra-300x436.jpg",
+            "nombre": "Cerca del Cielo: patrimonio biológico en la Zona ALMA",
+            "autor": "Brian S thomson & varios",
+            "editorial": "ESO",
+            "id": 3,
+            "categoria": "Ciencia"
         },
         {
-            "id": 4,
-            "nombre": "Waterloo y Trafalgar",
-            "url": "https://imagenes.elpais.com/resizer/9M3WAcDf91tlq_EXFMfxqSsLLJw=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/XALEHUCQPABURA25PP6NBNEEYA.jpg",
-            "autor": "Olivier Tallec",
-            "editorial": "Adriana Hidalgo"
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2016/12/ciencia-aroma-cafe-OpenLibra-300x389.gif",
+            "nombre": "Ciencia con aroma a café",
+            "autor": "Brian S thomson & varios",
+            "editorial": "UniRio",
+            "categoria": "Ciencia",
+            "id": 4
         },
         {
             "id": 5,
-            "nombre": "Tristán encoge",
-            "url": "https://imagenes.elpais.com/resizer/CZ6KXcZeBKkwwvKhoUpeUAGEDVs=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/6BO6GHCWC7VSZ5Q2HQZXQ32GMA.jpg",
-            "autor": "Florence Parry ",
-            "editorial": "Blackie"
+            "nombre": "James Webb Space Telescope: Science Guide",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2015/11/James-Webb-Space-Telescope-NASA-OpenLibra-300x392.jpg",
+            "autor": "Brian S Thomson $ Vario",
+            "editorial": "NASA",
+            "categoria": "Ciencia"
         },
         {
             "id": 6,
-            "nombre": "Barrios de colores",
-            "url": "https://imagenes.elpais.com/resizer/yfZqCEr4wry-U4GBQk82E_JP9Sk=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/2NFJSPJX747AVEW6NZDWFKEBKM.jpg",
-            "autor": "Ana González ",
-            "editorial": "Milrazones"
+            "nombre": "Chess",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2015/04/chess-wikibooks-OpenLibra-300x394.png",
+            "autor": "Wikibooks Contributors",
+            "editorial": "Wikibooks",
+            "categoria": "Ajedrez"
         },
         {
             "id": 7,
-            "nombre": "Cuando las niñas vuelan alto",
-            "url": "https://imagenes.elpais.com/resizer/7cgjm7SnQvHjg6OGB-QFQEFfkmk=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/X7OSLJAQUOPSR2DJWHASCYZGLU.jpg",
-            "autor": "Raquel Díaz",
-            "editorial": "Lumen"
+            "nombre": "Modern Chess Strategy",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2014/09/Modern-chess-strategy-1963-OpenLibra-300x451.jpg",
+            "autor": "Ludek Pachman",
+            "editorial": "Sir Isaac Pitman & Sons Ltd.",
+            "categoria": "Ajedrez"
         },
         {
             "id": 8,
-            "nombre": "Supersorda",
-            "url": "https://imagenes.elpais.com/resizer/PXltybUrheT-6cvpTSHuyI6jqvw=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/SJFWMX37AHLM2RGKAOZYI3XZXI.jpg",
-            "autor": "Cece Bell",
-            "editorial": "Maeva"
+            "nombre": "Programming a Computer for Playing Chess",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2015/03/Programming-a-Computer-for-Playing-Chess-OpenLibra-300x450.png",
+            "autor": "Claude E. Shannon",
+            "editorial": "Bell Telephone Labs",
+            "categoria": "Ajedrez"
         },
         {
             "id": 9,
-            "nombre": "El libro de Gloria Fuertes",
-            "url": "https://imagenes.elpais.com/resizer/HoqWWs6wAJX30cfKxTAffnD9Qgo=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/QQNJHQSQN7JULTEWF6U5U7T5CM.jpg",
-            "autor": "Gloria Fuertes",
-            "editorial": "Blackie"
+            "nombre": "Chess Strategy ",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2014/07/Chess-Strategy-Lasker-OpenLibra-300x394.gif",
+            "autor": "Edward Lasker",
+            "editorial": "Autoedición",
+            "categoria": "Ajedrez"
         },
         {
             "id": 10,
-            "nombre": "Los Bandídez",
-            "url": "https://imagenes.elpais.com/resizer/W9zfLUMOlxue-g-lkx4yPV4G7m4=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/MREXTOMYELZJNPTW56PWFH5ZEE.jpg",
-            "autor": "Siri Kolu",
-            "editorial": "Nórdica"
+            "nombre": "El Gran Ajedrez para Pequeños Ajedrecistas",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2013/05/El-Gran-Ajedrez-para-Peque%C3%B1os-Ajedrecistas-300x424.jpg",
+            "autor": "Juan Carlos Chacón Cánovas",
+            "editorial": "Educarm.es (Región de Murcia)",
+            "categoria": "Ajedrez"
+        },
+        {
+            "id": 11,
+            "nombre": "Laboratorio de PHP y MySQL",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2012/07/Laboratorio-de-PHP-y-MySQL-OpenLibra-300x424.gif",
+            "autor": "Piero Berni Millet Dídac Gil de la Iglesia",
+            "editorial": "UOC",
+            "categoria": "Base de Datos"
+        },
+        {
+            "id": 12,
+            "nombre": "MongoDB en español: T1, El principio",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2014/09/MongoDB-El-Principio-300x418.jpg",
+            "autor": "Yohan Graterol",
+            "editorial": "Autoedición",
+            "categoria": "Base de Datos"
+        },
+        {
+            "id": 13,
+            "nombre": "PostgreSQL Database Administration Volume 1",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2018/04/PostgreSQL-Database-Administration-Vol-1-OpenLibra-300x393.gif",
+            "autor": "Federico Campoli",
+            "editorial": "Autoedición",
+            "categoria": "Base de Datos"
+        },
+        {
+            "id": 14,
+            "nombre": "PostgreSQL Magazine #01",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2013/03/PostgreSQL-Magazine-01-OpenLibra-300x388.jpg",
+            "autor": "Varios",
+            "editorial": "PostgreSQL Community",
+            "categoria": "Base de Datos"
+        },
+        {
+            "id": 15,
+            "nombre": "PostgreSQL Magazine #00",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2013/03/PostgreSQL-Magazine-00-OpenLibra-300x425.jpg",
+            "autor": "Varios",
+            "editorial": "PostgreSQL Community",
+            "categoria": "Base de Datos"
+        },
+        {
+            "id": 16,
+            "nombre": "CSS Notes for Professionals",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2018/05/CSSNotesForProfessionals-OpenLibra-300x424.png",
+            "autor": "Varios",
+            "editorial": "GoalKicker.com",
+            "categoria": "Desarrollo Web"
+        },
+        {
+            "id": 17,
+            "nombre": "CSSDocs",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2012/11/CSSDocs-OpenLibra-300x394.gif",
+            "autor": "Tom Klingenberg",
+            "editorial": "Autoedición",
+            "categoria": "Desarrollo Web"
+        },
+        {
+            "id": 18,
+            "nombre": "Client vs. Developer Wars",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2013/04/Client-vs-Developer-Wars-OpenLibra-300x450.jpg",
+            "autor": "Eric Holter",
+            "editorial": "Lulu",
+            "categoria": "Desarrollo Web"
+        },
+        {
+            "id": 19,
+            "nombre": "Describing Data Patterns: A general deconstruction of metadata standards",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2013/11/Describing-Data-Patterns-OpenLibra-300x431.png",
+            "autor": "Jakob Vob",
+            "editorial": "Humboldt-University Berlin",
+            "categoria": "Desarrollo Web"
+        },
+        {
+            "id": 20,
+            "nombre": "HTML5",
+            "url": "https://olcovers2.blob.core.windows.net/coverswp/2015/07/HTML5-OpenLibra-300x450.jpg",
+            "autor": "Arkaitz Garro",
+            "editorial": "Autoedición",
+            "categoria": "Desarrollo Web"
         }
     ]
 }
